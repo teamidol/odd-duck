@@ -1,0 +1,27 @@
+#img-one {
+  border: solid black;
+  width: 100px;
+  height: 100px;
+}
+
+#img-two {
+  border: solid black;
+  width: 100px;
+  height: 100px;
+}
+
+#img-three {
+  border: solid black;
+  width: 100px;
+  height: 100px;
+}
+
+#results-btn {
+  font: 20px blue;
+  background-color: orange;
+}
+
+li {
+  font: 20px red;
+}
+
