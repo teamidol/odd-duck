@@ -1,27 +1,33 @@
 #img-one {
   border: solid black;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 #img-two {
   border: solid black;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 #img-three {
   border: solid black;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 #results-btn {
-  font: 20px blue;
-  background-color: orange;
+  font: 20px green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: lightgreen;
+  border: solid green;
 }
 
 li {
   font: 20px red;
 }
 
+
+body {
+  background-color: rgb(105, 207, 220);
+}
